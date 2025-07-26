@@ -1,0 +1,10 @@
+[project]
+name = "bbc-news"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib==3.10.3",
+    "notebook>=7.4.4",
+    "pandas==2.3.1",
+]
