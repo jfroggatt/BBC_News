@@ -11,3 +11,5 @@
 /.idea/
 # Python Virtual Environment
 /.venv/
+# Cache directory
+/cachedir/
